@@ -10,7 +10,7 @@ Weakly supervised Object Detection VISual explanations
 ├── train.lst
 ├── validate.lst
 ├── test_shuffle.lst
-├── processedImage
+└── processedImage
     ├── dataset-image1.png
     ├── dataset-image2.png
     └── ...
